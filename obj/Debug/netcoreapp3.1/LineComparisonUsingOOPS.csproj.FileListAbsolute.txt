@@ -1,0 +1,13 @@
+E:\C#\LineComparisonUsingOOPS\bin\Debug\netcoreapp3.1\LineComparisonUsingOOPS.exe
+E:\C#\LineComparisonUsingOOPS\bin\Debug\netcoreapp3.1\LineComparisonUsingOOPS.deps.json
+E:\C#\LineComparisonUsingOOPS\bin\Debug\netcoreapp3.1\LineComparisonUsingOOPS.runtimeconfig.json
+E:\C#\LineComparisonUsingOOPS\bin\Debug\netcoreapp3.1\LineComparisonUsingOOPS.runtimeconfig.dev.json
+E:\C#\LineComparisonUsingOOPS\bin\Debug\netcoreapp3.1\LineComparisonUsingOOPS.dll
+E:\C#\LineComparisonUsingOOPS\bin\Debug\netcoreapp3.1\LineComparisonUsingOOPS.pdb
+E:\C#\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.csproj.AssemblyReference.cache
+E:\C#\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.AssemblyInfoInputs.cache
+E:\C#\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.AssemblyInfo.cs
+E:\C#\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.csproj.CoreCompileInputs.cache
+E:\C#\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.dll
+E:\C#\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.pdb
+E:\C#\LineComparisonUsingOOPS\obj\Debug\netcoreapp3.1\LineComparisonUsingOOPS.genruntimeconfig.cache
